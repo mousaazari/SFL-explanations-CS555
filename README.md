@@ -1,5 +1,5 @@
 # SFL-explanations-CS555
-CS555 Final project
+## Computer Vision course project in Bilkent Universiy
 
 You need to download dataset from:
 https://www.kaggle.com/ashishsaxena2209/animal-image-datasetdog-cat-and-panda
